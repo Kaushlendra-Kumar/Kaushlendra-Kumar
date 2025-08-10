@@ -1,5 +1,4 @@
 <!-- Profile Banner -->
-![Banner](https://your-image-link.com/banner.png)
 
 <h1 align="center">Hi 👋, I'm Kaushlendra Kumar</h1>
 <h3 align="center">💻 C++ | Python | WebDev | ML & AI | LangChain | LLMs</h3>
