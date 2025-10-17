@@ -1,8 +1,6 @@
 # Hi there, I'm Kaushlendra Kumar! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Spin+Bowler+%F0%9F%8F%8F" alt="Typing SVG" />
-</div>
+![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
 ## 🚀 About Me
 
@@ -12,6 +10,7 @@
 🏏 **Spin Bowler** outside the code world  
 🌱 Currently working on **AI + Web integration projects**  
 🎯 **Goal:** Build impactful projects that solve real-world problems
+🤝 Open to collaboration opportunities and eager to discuss innovative project ideas.<br>
 
 ---
 
