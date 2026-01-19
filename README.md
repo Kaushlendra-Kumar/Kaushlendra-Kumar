@@ -14,9 +14,12 @@ Open to collaboration opportunities and eager to discuss innovative project idea
 
 ---
 
-## GitHub Contribution Activity
+## GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaushlendra-Kumar&theme=tokyo-night&hide_border=true&area=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaushlendra-Kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushlendra-Kumar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ---
 
@@ -70,14 +73,6 @@ Efficient database operations system built with modern C++ and SQL integration.
 ---
 
 ## GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaushlendra-Kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaushlendra-Kumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaushlendra-Kumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
