@@ -1,20 +1,26 @@
-# Hi there, I'm Kaushlendra Kumar! 👋
+# Hi there, I'm Kaushlendra Kumar!
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
-## 🚀 About Me
+## About Me
 
-🎓 **2023 Graduate** with a passion for AI-powered applications & full-stack development  
-💡 **Problem Solver** who loves building impactful solutions  
-🤖 **AI Enthusiast** experienced in Machine Learning, LangChain, and LLMs  
-🏏 **Spin Bowler** outside the code world  
-🌱 Currently working on **AI + Web integration projects**  
-🎯 **Goal:** Build impactful projects that solve real-world problems
-🤝 Open to collaboration opportunities and eager to discuss innovative project ideas.<br>
+**2023 Graduate** with a passion for AI-powered applications & full-stack development  
+**Problem Solver** who loves building impactful solutions  
+**AI Enthusiast** experienced in Machine Learning, LangChain, and LLMs  
+**Spin Bowler** outside the code world  
+Currently working on **AI + Web integration projects**  
+**Goal:** Build impactful projects that solve real-world problems  
+Open to collaboration opportunities and eager to discuss innovative project ideas.
 
 ---
 
-## 🛠️ Tech Stack
+## GitHub Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kaushlendra-Kumar&theme=tokyo-night&hide_border=true&area=true)
+
+---
+
+## Tech Stack
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -44,26 +50,26 @@
 
 ---
 
-## 🎯 Featured Projects
+## Featured Projects
 
-### 🏥 [Hospital Booking System](https://github.com/Kaushlendra-Kumar/hospital-booking-system)
+### [Hospital Booking System](https://github.com/Kaushlendra-Kumar/hospital-booking-system)
 A comprehensive full-stack hospital booking platform with integrated payment processing and real-time video consultations.
 - **Tech Stack:** Python, Django, JavaScript, WebRTC, Payment Gateway Integration
 - **Features:** Online appointments, secure payments, video calls, patient management
 
-### 🤖 [AI Multi-LLM Chatbot](https://github.com/Kaushlendra-Kumar/ai-chatbot)
+### [AI Multi-LLM Chatbot](https://github.com/Kaushlendra-Kumar/ai-chatbot)
 An intelligent chatbot that dynamically integrates multiple Large Language Models for enhanced Q&A capabilities.
 - **Tech Stack:** Python, LangChain, OpenAI API, Multiple LLM Integration
 - **Features:** Dynamic model switching, context-aware responses, API integration
 
-### 💾 [C++ SQL CRUD System](https://github.com/Kaushlendra-Kumar/cpp-sql-crud)
+### [C++ SQL CRUD System](https://github.com/Kaushlendra-Kumar/cpp-sql-crud)
 Efficient database operations system built with modern C++ and SQL integration.
 - **Tech Stack:** C++, SQL, Database Management
 - **Features:** Full CRUD operations, optimized queries, data validation
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaushlendra-Kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -79,7 +85,7 @@ Efficient database operations system built with modern C++ and SQL integration.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
 
@@ -92,15 +98,7 @@ Efficient database operations system built with modern C++ and SQL integration.
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaushlendra-Kumar&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
-
----
-
-## 🎨 Profile Views & Followers
+## Profile Views & Followers
 
 <div align="center">
   
@@ -111,9 +109,9 @@ Efficient database operations system built with modern C++ and SQL integration.
 
 ---
 
-## 💡 Fun Fact
+## Fun Fact
 
-> *"A good code is like good spin bowling—unpredictable, yet effective."* 🏏
+> *"A good code is like good spin bowling—unpredictable, yet effective."*
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
@@ -122,5 +120,5 @@ Efficient database operations system built with modern C++ and SQL integration.
 ---
 
 <div align="center">
-  <h3>⭐ Show some love by starring my repositories if you find them helpful! ⭐</h3>
+  <h3>Show some love by starring my repositories if you find them helpful!</h3>
 </div>
