@@ -4,7 +4,7 @@
 
 ## About Me
 
-**2023 Graduate** with a passion for AI-powered applications & full-stack development  
+**2023 Graduate** Building backend systems, API Integration & scalable systems. making systems faster, leaner, and harder to break. 
 **Problem Solver** who loves building impactful solutions  
 **AI Enthusiast** experienced in Machine Learning, LangChain, and LLMs  
 **Spin Bowler** outside the code world  
