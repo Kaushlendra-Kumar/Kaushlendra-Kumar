@@ -1,4 +1,4 @@
-# Hi there, I'm Kaushlendra Kumar!
+# Hi there, 
 
 ![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 
@@ -7,8 +7,7 @@
 **2023 Graduate** Building backend systems, API Integration & scalable systems. making systems faster, leaner, and harder to break. 
 **Problem Solver** who loves building impactful solutions  
 **AI Enthusiast** experienced in Machine Learning, LangChain, and LLMs  
-**Spin Bowler** outside the code world  
-Currently working on **AI + Web integration projects**  
+**Spin Bowler** outside the code world   
 **Goal:** Build impactful projects that solve real-world problems  
 Open to collaboration opportunities and eager to discuss innovative project ideas.
 
